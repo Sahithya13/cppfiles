@@ -1,4 +1,4 @@
-class Solution {
+class problem_1909 {
 public:
     bool canBeIncreasing(vector<int>& nums) {
         int n = nums.size();
